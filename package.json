@@ -1,0 +1,19 @@
+{
+  "name": "letter-to-letter-decipher",
+  "version": "0.0.0",
+  "description": "decipher from letter to letter",
+  "main": "decipher.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/plantvsbirds/letter-to-letter-decipher.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/plantvsbirds/letter-to-letter-decipher/issues"
+  },
+  "homepage": "https://github.com/plantvsbirds/letter-to-letter-decipher"
+}
